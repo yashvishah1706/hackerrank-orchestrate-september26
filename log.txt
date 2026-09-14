@@ -1,0 +1,5 @@
+SESSION START: Sat Sep 12 23:11:10 EDT 2026
+Buy or Wait? Financial Affordability Agent
+Model: claude-sonnet-4-6
+Approach: 90-day deterministic balance forecast + Claude AI for message parsing, image extraction, explanations.
+250 requests processed.
